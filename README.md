@@ -1,8 +1,8 @@
 # Sort_filter_v2
 
-テトリスにおいて、path-filterの結果をpath-unique準拠で並び替えるプログラム
+テトリスにおいて、path-filterの結果をpath-unique準拠で並び替えるプログラム(v2)
 
-A program that sorts the results of path-filter according to path-unique in Tetris.
+In Tetris, a program that sorts the results of path-filter according to path-unique (v2)
 
 ---
 
