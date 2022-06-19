@@ -14,9 +14,15 @@ https://paiza.io/projects/aJxWLUJQiJocl7Sqb95LAw
 
 ---
 
-番号が大きいものほど新しいです　最も番号の大きいフォルダをダウンロードしてください
+「.exe」か「.jar」が末尾についているファイルをダウンロードしてください
 
-The higher the number, the newer. Download the folder with the highest number.
+Download the file that ends with ".exe" or ".jar".
+
+---
+
+番号が大きいものほど新しいです　最も番号の大きいファイルをダウンロードしてください
+
+The higher the number, the newer it is. Please download the file with the highest number.
 
 ---
 
