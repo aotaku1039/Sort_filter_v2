@@ -23,6 +23,8 @@ SOFTWARE.
 -------------
 pyperclip (https://github.com/asweigart/pyperclip)
 
+BSD-3-Clause Licence
+
 Copyright (c) 2014, Al Sweigart
 All rights reserved.
 
